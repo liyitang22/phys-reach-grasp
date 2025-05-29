@@ -4,7 +4,7 @@
 
 [[Website]](https://liyitang22.github.io/phys-reach-grasp/)
 [[Arxiv]](https://arxiv.org/abs/2503.07481)
-[[Video]]([https://www.youtube.com/](https://www.youtube.com/watch?v=eJ2G_tpUE8Y))
+[[Video]](https://www.youtube.com/watch?v=eJ2G_tpUE8Y)
 
 <img src="static/images/teaser.png" style="height:50px;" />
 
