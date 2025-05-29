@@ -6,7 +6,7 @@
 [[Arxiv]](https://arxiv.org/abs/2503.07481)
 [[Video]](https://www.youtube.com/watch?v=eJ2G_tpUE8Y)
 
-<img src="static/images/teaser.png" style="height:150px;" />
+<img src="static/images/teaser.png" style="height:350px;" />
 
 
 
